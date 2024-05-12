@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExpenseTrackerApp" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/pearl</item>
+    </style>
+</resources>
